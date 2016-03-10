@@ -1,2 +1,2 @@
 # hello-world
-Starting to code in github
+hi i have just started coding in github
